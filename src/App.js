@@ -17,10 +17,15 @@ import AccordionSlide from './compoments/AccordionSlide';
 import Preloder from './compoments/Preloder';
 import { useEffect } from 'react';
 import BackToTop from './compoments/BackToTop';
+import Aos from 'aos';
+import "aos/dist/aos.css";
 
 
 function App() {
   useEffect(() => {
+    Aos.init();
+    Aos.refresh();
+
     const preloader = document.getElementById('preloader')
     setTimeout(() => {
       preloader.classList.add('d-none')

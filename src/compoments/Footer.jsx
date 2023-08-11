@@ -8,8 +8,8 @@ const Footer = () => {
     return (
         <>
 
-            <div className="myContainer pt-35 pt-sm-50 pt-md-90 pt-lg-161 position-relative z-2">
-                <div className='d-flex justify-content-center'>
+            <div className="myContainer pt-35 pt-sm-50 pt-md-90 pt-lg-161 position-relative z-2" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="2000">
+                <div className='d-flex justify-content-center' data-aos="zoom-in" data-aos-duration="2000">
                     <img src={footerImg} alt="footer img" className='footerImg' />
                 </div>
                 <h5 className='text-center mb-0 fs_2lg fw_semiBold color_primary pt-2'>Cyber Drops</h5>

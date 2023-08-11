@@ -4,9 +4,9 @@ import { Col, Row } from 'react-bootstrap'
 const Work = () => {
     return (
         <>
-            <div className='myContainer my-30 my-sm-40 mt-md-100 mt-lg-150 position-relative z-2'>
+            <div className='myContainer my-30 my-sm-40 mt-md-100 mt-lg-150 position-relative z-2 overflow-hidden'>
                 <h2 className='fw_extraBold fs_xl color_white mb-0 text-center mb-lg-1 pb-lg-2'>How it <span className='color_primary'>works</span></h2>
-                <Row className='py-3 py-sm-4 py-lg-5 justify-content-center'>
+                <Row className='py-3 py-sm-4 py-lg-5 justify-content-center' data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="2000">
                     <Col lg={3} md={4} sm={6} className='py-3 pt-sm-0 pb-md-0 d-flex justify-content-center'>
                         <div className='cardWork w-290'>
                             <div className='d-flex flex-column align-items-center pt-4 '>
