@@ -238,7 +238,7 @@
   background-image: linear-gradient(#F1AC73, #F1AC73);
   transition: all 0.3s linear;
   transform: scale(1.03);
-  /* box-shadow: 1px 1px 4px 0px white; */
+  border: solid 3.73px transparent;
 }
 
 .cardWork:hover .circle {
