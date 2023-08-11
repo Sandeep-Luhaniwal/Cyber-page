@@ -3,7 +3,6 @@ import { CrossIcon, DiscordIcon, MaxIcon, MenuIcon, PlanIcon, TwitterIcon } from
 import { Link } from 'react-router-dom';
 import MainLogo from '../assets/imges/webp/Main_Logo.webp'
 import twitt from '../assets/imges/svg/bullr.svg'
-import NavBluer from '../assets/imges/png/NavBuler.png'
 
 const Nav = () => {
     const [menu, setMenu] = useState(false);

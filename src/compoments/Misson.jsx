@@ -1,6 +1,5 @@
 import React from 'react'
 import { Col, Row } from 'react-bootstrap'
-import Missonimg from '../assets/imges/webp/Mission.webp'
 import MissonBluer1 from '../assets/imges/png/MissionBluer1.png'
 import MissonBluer2 from '../assets/imges/png/MissionBluer2.png'
 import MissonUmb from '../assets/imges/png/rotateUmberlaMission.png'

@@ -1,5 +1,4 @@
 import React from 'react'
-import { Container } from 'react-bootstrap'
 import Slider from "react-slick";
 import People_1 from '../assets/imges/png/SliderImg1.png'
 import People_2 from '../assets/imges/png/SliderImg2.png'
