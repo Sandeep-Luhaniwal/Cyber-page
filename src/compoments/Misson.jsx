@@ -27,7 +27,7 @@ const Misson = () => {
                                 <h2 className='fw_extraBold fs_xl color_white mb-0 text-center text-md-start animation-word'>Our <span className='color_primary animation-word1'>Mission</span></h2>
                                 <p className='fw_regular fs_2sm color_white mb-0 py-3 pt-lg-4 pb-lg-2 text-center text-md-start'>We understand that one of the biggest concerns for early-stage investors is that it can quickly become stressful, overwhelming, and especially extremely time consuming. It isn’t easy to balance a full time job, family, and an active investment portfolio, especially when just starting out.</p>
                                 <div className="d-flex justify-content-center justify-content-md-start">
-                                    <button className='outline-btn fs_sm color_white fw_medium mt-lg-5 border-0 hoverEffect position-relative'>
+                                    <button className='outline-btn fs_sm color_white fw_semiBold mt-lg-5 border-0 hoverEffect position-relative'>
                                         <span></span>
                                         <span></span>
                                         <span></span>

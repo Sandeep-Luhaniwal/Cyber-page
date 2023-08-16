@@ -17,7 +17,7 @@ const HeroSection = () => {
               <h1 className='fw_extraBold fs_xxl color_white mb-0 text-center text-md-start animation-word'>Welcome to <span className='d-lg-block color_primary animation-word1'>Cyber Drops</span></h1>
               <p className='fw_regular fs_2sm color_white mb-0 mb-lg-1 py-3 pt-lg-4 pb-lg-2  text-center text-md-start'>Viverra felis, dui adipiscing ipsum pharetra donec. Pretium, tempus, enim tincidunt at nibh duis iaculis in mauris. Id elit nec curabitur purus. Ullamcorper mattis risus suspendisse pretium tristique.</p>
               <div className='d-flex justify-content-center justify-content-md-start'>
-                <button className='outline-btn hoverEffect position-relative fs_sm color_white fw_medium mt-lg-5 border-0'>
+                <button className='outline-btn hoverEffect position-relative fs_sm color_white fw_semiBold mt-lg-5 border-0'>
                   <span></span>
                   <span></span>
                   <span></span>
